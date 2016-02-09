@@ -1,4 +1,7 @@
-# Check Brackets
+# Check Brackets Test
+
+Run tests running command bellow:
+
 ```code
-  npm run test
+  #npm run test
 ```
